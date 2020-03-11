@@ -7,7 +7,7 @@
 ・オンクリックイベントを発生させるjavascriptコードを上記に追加
 ## 実際に書いたコード
 <html>
-```<a href="#" onClick="javascript:sample_sanple2(); return false;">sample</a>```
+```<a href="#" onClick="javascript:sample_sanple2(); return false;">sample</a>
 
 <javascript>
 <script type="text/javascript">
@@ -20,3 +20,4 @@ var height=100%
 }
 //--->
 </script>
+```
